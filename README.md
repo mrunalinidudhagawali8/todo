@@ -4,3 +4,4 @@
 3. exploring different kinds of databases in java
 4. exploring multithreading concepts, do multithreading file reading
 5. create a web based project for comparing two different files of same format, eg comparing two json files
+6. create a wiremock poc
