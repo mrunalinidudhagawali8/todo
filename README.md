@@ -4,7 +4,7 @@ Kindly note that, this repo is just like a simple todo list, which would contain
 Any one interested, please feel free to create a branch and add your changes.
 
 My current TODOs :
-1. create a project for formatting json string in json format and custom exception class for throwing excetions
+1. create a project for formatting json string in json format and custom exception class for throwing exceptions
 2. exploring different kinds of logging mechanisms in java
 3. exploring different kinds of databases in java
 4. exploring multithreading concepts, do multithreading file reading
